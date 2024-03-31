@@ -1,8 +1,5 @@
 #/usr/bin/python3
 
-#  Code Alpha Python Intership, Task 1 #
-#~ Implementation of fibonacci serie using recursion. ~#
-#~ Made by Byylle ODOALEYKOUN, aka Ozu. ~#
 
 def menu():
     print("""Welcome to my fibonacci series printing program. 
